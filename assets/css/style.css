@@ -1,0 +1,29 @@
+#wrap {
+			width: 360px;
+			margin: 20px auto;
+			padding: 20px;
+			border: 5px solid #DDD;
+		}
+h1 {
+	margin: 0 0 20px 0;
+	padding: 0 0 5px 0;
+	font-size: 18px;
+	border-bottom: 1px solid #ddd;
+}
+
+h1 span {
+	float: right;
+	display: block;
+	background: #9cf;
+	font-size: 12px;
+	padding: 2px 6px;
+	color: #fff;
+}
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+ul li{
+	padding: 4px 0;
+}
